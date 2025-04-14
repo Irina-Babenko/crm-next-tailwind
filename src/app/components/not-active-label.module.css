@@ -1,11 +1,11 @@
-.laibel {
+.label {
   display: inline-flex;
   padding: 4px 14px;
   align-items: center;
   gap: 8px;
 
   border-radius: 28px;
-  background: #dcfce7;
+  background: #fee2e2;
 
-  color: #15803d;
+  color: #b91c1c;
 }

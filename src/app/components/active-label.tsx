@@ -7,5 +7,5 @@ export interface ActiveLabelProps {
 }
 
 export default function ActiveLabel({ children }: ActiveLabelProps) {
-  return <span className="styles.label">{children}</span>;
+  return <span className={styles.label}>{children}</span>;
 }
